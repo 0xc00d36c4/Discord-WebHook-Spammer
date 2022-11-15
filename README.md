@@ -21,6 +21,6 @@ python spammer.py
 # Avertissement ⚠
 *1- Je ne suis en aucun cas responsable des tous les webhooks qui vont être submergé par ce script*
 
-*2- Il se pourrais que la voix d'assistance de windows s'active durant le spam*
+*2- Il se pourrait que la voix d'assistance de windows s'active durant le spam*
 
 *3- testé uniquement sous Windows 10*
