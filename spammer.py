@@ -14,7 +14,7 @@ def id_generator(size=6, chars=string.ascii_uppercase + string.digits):
 
 def send_message(webhook_url):
     username = "czdgchdsxj " + id_generator() + " ﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽"
-    message = ":warning: @everyone discord.gg/СУКА.БЛЯТЬ :warning: " + id_generator(1400) + " :chains::chains::chains::chains::chains::chains::chains::chains::chains::chains::chains::chains::chains::chains::chains::chains::chains::chains::chains:𒐩𒌄ஹ‱؁Ǆ𒀱𒈟𒁎௵꧄.ဪ⸻𒈙𒐫𒍙𒌧﷽𒊎𒐪𒅃 𒈓䲜𒁏龘𒀰䨻𒅌𪚥𰽔𒄡𱁬𒐫𒈙:truck::truck::truck::truck::truck::truck::truck::truck::truck::truck::truck::truck::truck::truck::truck::truck::truck::truck::truck::truck::truck::truck::truck::truck::truck::truck:"
+    message = ":warning: @everyone discord.gg/pwned :warning: " + id_generator(1400) + " :chains::chains::chains::chains::chains::chains::chains::chains::chains::chains::chains::chains::chains::chains::chains::chains::chains::chains::chains:𒐩𒌄ஹ‱؁Ǆ𒀱𒈟𒁎௵꧄.ဪ⸻𒈙𒐫𒍙𒌧﷽𒊎𒐪𒅃 𒈓䲜𒁏龘𒀰䨻𒅌𪚥𰽔𒄡𱁬𒐫𒈙:truck::truck::truck::truck::truck::truck::truck::truck::truck::truck::truck::truck::truck::truck::truck::truck::truck::truck::truck::truck::truck::truck::truck::truck::truck::truck:"
     avatar = "https://picsum.photos/id/{}/200".format(random.randint(1, 500))
     data = json.dumps({
         "content": message,
