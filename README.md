@@ -19,7 +19,7 @@ python spammer.py
 *Attendez un instant, faite "CTRL-C" pour le stopper*
 
 # Avertissement ⚠
-*1- Je ne suis en aucun cas responsable des tous les webhooks qui vont être submergé par ce script*
+*1- Je ne suis en aucun cas responsable de tous les webhooks qui vont être submergé par ce script*
 
 *2- Il se pourrait que la voix d'assistance de windows s'active durant le spam*
 
